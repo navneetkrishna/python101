@@ -1,0 +1,1 @@
+Hello!!! I am writing something to file that I'll try to read later using file operation in Python.

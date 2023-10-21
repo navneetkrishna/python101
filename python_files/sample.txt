@@ -1,0 +1,3 @@
+Hello!!! I am writing something to file that I'll try to read later using file operation in Python.
+
+Till now, we were taking the input from the console and writing it back to the console to interact with the user.
